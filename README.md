@@ -86,7 +86,7 @@ Este projeto utiliza uma arquitetura de monorepo para organizar o backend e o fr
 ## 📂 Estrutura do Projeto
 
 A arquitetura do projeto é um monorepo com separação clara entre backend e frontend.
-
+```bash
 /F1Score
 ├── /backend                    # Código do backend (API REST)
 │   ├── app.py                  # Ponto de entrada da aplicação Flask
@@ -109,7 +109,7 @@ A arquitetura do projeto é um monorepo com separação clara entre backend e fr
 │   └── ...
 ├── .gitignore                  # Arquivos e pastas a serem ignorados pelo Git
 └── README.md                   # Este arquivo
-
+```
 ---
 
 ## 🚀 Como Começar
